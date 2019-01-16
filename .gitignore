@@ -12,3 +12,17 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+*.xml
+*.html
+*.png
+*.iml
+*.tar
+*.zip
+*.class
+*.bat
+uiTests/gradlew
+*.properties
+*.jar
+*.MF
+uiTests/build/scripts/yandexTask
+restApiTests/gradlew
